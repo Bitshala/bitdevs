@@ -10,8 +10,8 @@ This is useful for compacting blockchain footprints for multisigs and improves p
 3. [Musig2 explainer 2](https://youtu.be/b1MKnsQioGg)
 4. [Bitcoin Optech on Musig](https://bitcoinops.org/en/newsletters/2023/08/16/)
 5. [Original Musig Paper](https://eprint.iacr.org/2018/068)
-6. [Musig DN](https://eprint.iacr.org/2020/1057)
-7. [Musig2](https://eprint.iacr.org/2020/1261)
+6. [Musig DN Paper](https://eprint.iacr.org/2020/1057)
+7. [Musig2 paper](https://eprint.iacr.org/2020/1261)
 
 # Discussion Topic Flow:
 - Basic of Schnorr and Taproot.
